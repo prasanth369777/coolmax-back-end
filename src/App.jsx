@@ -14,7 +14,7 @@ import Collections from "./pages/Collections";
 import NewArrivals from "./pages/NewArrivals";
 import About from "./pages/About";
 import Admin from "./pages/Admin";
-import Blog from "./pages/Blog";
+import Blog from "./pages/blog";
 
 import {
   products as productData,
