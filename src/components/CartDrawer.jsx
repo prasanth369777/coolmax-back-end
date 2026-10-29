@@ -60,7 +60,7 @@ export default function CartDrawer({
       .filter(Boolean)
       .join("\n");
 
-    const whatsappNumber = "917010054619";
+    const whatsappNumber = "97466043446";
     window.open(
       `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`,
       "_blank",

@@ -89,7 +89,7 @@ export default function Admin() {
 
   const handleLogin = (event) => {
     event.preventDefault();
-    if (username.trim() === "admin" && password === "bodi") {
+    if (username.trim() === "admin" && password === "coolmax") {
       sessionStorage.setItem("coolmax_admin_authenticated", "true");
       setIsAuthenticated(true);
       setLoginError("");
